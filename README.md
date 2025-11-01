@@ -1,5 +1,5 @@
 # X402 Facilitator (Solana + USDC)  
-![X4A Banner](X4Abanner.png)
+![X4A Banner](X4ABanner.png)
 
 > **Pay-to-access & digital/physical marketplace on Solana using USDC**  
 > Token-gated hybrid access • SQLite-backed catalog • Telegram notifications • Key rotation • Webhook events  
